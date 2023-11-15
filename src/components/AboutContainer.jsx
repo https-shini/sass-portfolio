@@ -1,21 +1,19 @@
 const AboutContainer = () => {
-  return (
-    <section className="about-container">
-      <h2>Sobre</h2>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
-      </p>
-      <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-        aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-        distinctio provident impedit modi neque sapiente voluptate voluptates.
-        Maiores sint at dolores?
-      </p>
-    </section>
-  );
+    return (
+        <section className="about-container">
+            <h2>Sobre</h2>
+            <p>
+                Jovem tecnólogo em Análise e Desenvolvimento de Sistemas formado pela Etec Vila Formosa e atualmente cursando faculdade de Ciências da Computação na Universidade Cruzeiro do Sul. 
+                <br></br>
+                Me considero um profissional dedicado e apaixonado por tecnologia, buscando sempre novas oportunidades para desenvolver minhas habilidades e aprimorar meu conhecimento na área de atuação.
+            </p>
+            <p>
+                Busco minha primeira experiência profissional para aplicar minhas habilidades e conhecimentos em projetos desafiadores e inovadores, contribuindo com a equipe e crescendo profissionalmente.
+                <br></br>
+                Assim aprimorando minhas habilidades em programação, tenho feito cursos extracurriculares, e acredito que meu entusiasmo e vontade de crescer profissionalmente me tornam um excelente candidato para projetos desafiadores e inovadores na área de tecnologia.
+            </p>
+        </section>
+    );
 };
 
 export default AboutContainer;
