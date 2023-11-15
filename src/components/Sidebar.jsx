@@ -8,7 +8,7 @@ import "../styles/components/sidebar.sass";
 const Sidebar = () => {
 return (
     <aside id="sidebar">
-        <img src={Avatar} alt="Matheus Battisti" />
+        <img src={Avatar} alt="eu" />
         <p className="title">Desenvolvedor Full-Stack</p>
         <SocialNetworkContainer />
         <InformationContainer />
@@ -17,7 +17,7 @@ return (
             Voltar
             </a>
             <a href="../src/curriculo.pdf" className="btn back">
-            Download currículo
+            Acessar currículo
             </a>
         </div>
     </aside>

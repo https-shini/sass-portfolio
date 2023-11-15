@@ -1,0 +1,12 @@
+@use '../variables'
+@use '../mixins'
+
+.project-grid
+    display: flex
+    flex-wrap: wrap
+
+.project-card
+    @include mixins.center
+    gap: 1rem
+    padding: 1rem
+    width: 50%
