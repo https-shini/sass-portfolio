@@ -14,10 +14,10 @@ return (
         <InformationContainer />
         <div>
         <a href="https://vite-portfolio-beta.vercel.app" className="btn">
-            Voltar
+                Voltar
             </a>
-            <a href="../src/curriculo.pdf" className="btn back">
-            Acessar currículo
+            <a href="https://https-shini.github.io/portfolio/docs/curriculo.pdf" className="btn back">
+                Acessar currículo
             </a>
         </div>
     </aside>
