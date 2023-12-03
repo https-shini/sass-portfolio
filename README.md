@@ -10,7 +10,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
-https://sass-portfolio-two.vercel.app
+https://sass-portfolio-sigma.vercel.app
 
 ## ☆ Tecnologias
 
